@@ -1,0 +1,171 @@
+body {
+  font-family: Helvetica, sans-serif;
+
+  color: #32325f;
+}
+
+/*Hero*/
+.hero {
+  padding-top: 74px;
+  padding-bottom: 191px;
+
+  background-color: #f4f5f7;
+}
+
+.brand {
+  font-size: 20px;
+  font-weight: 700;
+
+  text-transform: uppercase;
+  color: #95989a;
+}
+
+.social-link {
+  margin-left: 20px;
+}
+
+.main {
+  margin-top: 159px;
+}
+
+.main-title {
+  margin-bottom: 25px;
+}
+
+.subtitle {
+  margin-bottom: 14px;
+
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.description {
+  margin-bottom: 16px;
+
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.price-tag {
+  margin-bottom: 7px;
+  
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.price {
+  margin-bottom: 50px;
+
+  font-size: 48px;
+  font-weight: 400;
+
+  color: #525f7f;
+}
+
+.button {
+  display: inline-block;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 700;
+
+  color: #ffffff;
+  text-decoration: none;
+  box-shadow: 0 3px 6px rgba(173, 173, 173, 0.16);
+  border-radius: 6px;
+}
+
+.button:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.button-success {
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-right: 30px;
+
+  background-color: #2dce89;
+}
+
+.button-success:hover {
+  background-color: #28a745;
+}
+
+.button-primary {
+  padding-right: 35px;
+  padding-left: 35px;
+
+  background-color: #5e72e4;
+}
+
+.button-primary:hover {
+  background-color: #007bff;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+/*About*/
+.about {
+  padding-top: 90px;
+  padding-bottom: 160px;
+}
+
+.about-title {
+  margin-bottom: 90px;
+}
+
+.block-text {
+  margin-top: 40px;
+  margin-bottom: 0;
+
+  font-size: 16px;
+  font-weight: 400;
+}
+
+
+/*Footer*/
+.footer {
+  padding-top: 78px;
+  padding-bottom: 104px;
+
+  background-color: #32325f;
+  color: #ffffff;
+}
+
+.footer-title {
+  margin-bottom: 34px;
+
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.footer-list {
+  padding: 0;
+  margin: 0;
+
+  font-size: 16px;
+  font-weight: 700;
+
+  list-style-type: none;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-link:hover {
+  color: #95989a;
+  text-decoration: none;
+}
